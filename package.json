@@ -2,7 +2,7 @@
   "name": "chat-application",
   "version": "1.0.0",
   "description": "A simple chat application using Node.js, Express, and Socket.io",
-  "main": "server.js", // Ensure this points to the correct entry point
+  "main": "server.js", 
   "scripts": {
     "start": "node server.js"
   },
